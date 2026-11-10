@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:MB Dental Care – Д-р Мария Божилова
+N:;MB Dental Care – Д-р Мария Божилова;;;
+ORG:MB Dental Care
+TEL;TYPE=WORK,VOICE:+359888954747
+ADR;TYPE=WORK:;;бул. Асеновградско шосе 4П;Пловдив;;4000;България
+URL:https://mbdentalcare.github.io/MB.Dental.Care/
+END:VCARD
